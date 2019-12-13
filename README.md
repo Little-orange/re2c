@@ -1,4 +1,4 @@
-DESCRIPTION
+DESCRIPTION 
 -----------
 
 re2c is a free and open-source lexer generator for C and C++.
